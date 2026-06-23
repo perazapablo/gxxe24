@@ -104,18 +104,7 @@ Create a persistent memory layer for AI agents, allowing projects, sessions, not
 - MCP
 - Local tooling
 
-## Learning goals
 
-I'm currently improving my skills in:
-
-- Clean backend architecture
-- Database design
-- Angular advanced patterns
-- RxJS
-- API design
-- Rust fundamentals
-- Real-time notifications
-- Deployment and production workflows
 
 ## GitHub Stats
 
